@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [What is Redis](#what-is-redis)
 * [Technologies](#technologies)
-* [Project contenst](#project-contents)
+* [Project contents](#project-contents)
 * [Setup](#setup)
 
 ## General info
