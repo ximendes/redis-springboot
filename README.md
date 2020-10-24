@@ -34,7 +34,7 @@ This project contains the mains operations from Redis template
 To run this project:
 
 ```
-$ git clone https://github.com/ximendes/arquillian-wildfly-integration-tests.git
+$ git clone https://github.com/ximendes/redis-springboot.git
 $ cd redis-springboot
 ```
 
