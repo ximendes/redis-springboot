@@ -35,7 +35,7 @@ To run this project:
 
 ```
 $ git clone https://github.com/ximendes/arquillian-wildfly-integration-tests.git
-$ cd arquillian-wildfly-integration-tests
+$ cd redis-springboot
 ```
 
 Start redis with docker compose
